@@ -54,4 +54,11 @@ git remote add azure <your_git_url>
 ```
 
 8. `git push azure master`
+9. demo
+face api
+![image](https://github.com/jack0920123/azurebotHW/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-08-19%20224355.png)
+ocr
+![image](https://github.com/jack0920123/azurebotHW/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-08-19%20224432.png)
+object detect
+![image](https://github.com/jack0920123/azurebotHW/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-08-19%20224519.png)
 
